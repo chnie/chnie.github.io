@@ -2,8 +2,8 @@ p.titlething {
   font-size: 1200%;
   font-family: "Courier New", Courier, Serif;
   position: fixed;
-  left: 10%;
-  bottom: 10%;
+  left: 40px;
+  bottom: 10px;
 }
 p.intro {
   font-family: "Courier New", Courier, Serif;
