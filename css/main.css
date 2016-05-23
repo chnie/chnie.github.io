@@ -1,14 +1,14 @@
 p.titlething {
-  font-size: 1200%;
+  font-size: 6vw;
   font-family: "Courier New", Courier, Serif;
   position: fixed;
-  left: 10%;
-  bottom: 10%;
+  left: 10vw;
+  bottom: 15vh;
 }
 p.intro {
   font-family: "Courier New", Courier, Serif;
-  font-size: 100%;
+  font-size: 0.8vw;
   position: fixed;
-  right: 100px;
-  bottom: 500px;
+  right: 74vw;
+  bottom: 65vh;
 }
