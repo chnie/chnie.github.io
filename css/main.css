@@ -1,14 +1,23 @@
+p {
+  font-family: "Courier New", Courier, Serif;}
 p.titlething {
   font-size: 10vw;
-  font-family: "Courier New", Courier, Serif;
+  font-family: "Times New Roman", Times, Serif;
   position: fixed;
   left: 10vw;
   bottom: 0vh;
 }
 p.intro {
-  font-family: "Courier New", Courier, Serif;
   font-size: 1.2vw;
   position: fixed;
   right: 5vw;
   bottom: 65vh;
+}
+nav.titlepage {
+  position: fixed;
+  left: 10vw;
+  bottom: 0vh;
+}
+td {
+  padding: 2vw;
 }
