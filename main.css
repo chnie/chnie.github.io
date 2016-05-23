@@ -1,6 +1,12 @@
-p.titlething {
+titlething {
   font-size: 1200%;
   font-family: "Times New Roman", Times, Serif;
+}
+
+p.titlething {
+  position: fixed;
+  left: 10px;
+  bottom: 10px;
 }
 p.intro {
   font-family: "Courier New", Courier, Serif;
