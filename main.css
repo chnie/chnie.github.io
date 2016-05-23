@@ -5,13 +5,13 @@ titlething {
 
 p.titlething {
   position: fixed;
-  left: 10px;
-  bottom: 10px;
+  left: 0vw;
+  bottom: 0vw;
 }
 p.intro {
   font-family: "Courier New", Courier, Serif;
   font-size: 5vw;
   position: fixed;
-  right: 100px;
-  bottom: 500px;
+  right: 80vw;
+  bottom: 50vh;
 }
