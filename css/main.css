@@ -3,12 +3,12 @@ p.titlething {
   font-family: "Courier New", Courier, Serif;
   position: fixed;
   left: 10vw;
-  bottom: 5vh;
+  bottom: 0vh;
 }
 p.intro {
   font-family: "Courier New", Courier, Serif;
   font-size: 1.2vw;
   position: fixed;
-  left: 74vw;
+  right: 5vw;
   bottom: 65vh;
 }
