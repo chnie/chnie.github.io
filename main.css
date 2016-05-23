@@ -3,15 +3,7 @@ titlething {
   font-family: "Times New Roman", Times, Serif;
 }
 
-p.titlething {
-  position: fixed;
-  left: 0vw;
-  bottom: 0vw;
-}
 p.intro {
   font-family: "Courier New", Courier, Serif;
   font-size: 5vw;
-  position: fixed;
-  right: 80vw;
-  bottom: 50vh;
 }
