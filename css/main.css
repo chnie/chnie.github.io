@@ -4,7 +4,7 @@ p.titlething {
   font-size: 10vw;
   font-family: "Times New Roman", Times, Serif;
   position: fixed;
-  left: 10vw;
+  left: 0vw;
   bottom: 0vh;
 }
 p.intro {
@@ -16,8 +16,8 @@ p.intro {
 table {
   font-size: 1.3vw;
   position: fixed;
-  left: 5vw;
-  bottom: 5vh;
+  left: 0vw;
+  bottom: 0vh;
 }
 td {
   padding: 2vw;
