@@ -1,11 +1,11 @@
 body {
   font-family: "Courier New", Courier, Serif;}
 p.titlething {
-  font-size: 13vw;
+  font-size: 20vh;
   font-family: "Times New Roman", Times, Serif;
   position: fixed;
-  left: 0vw;
-  bottom: 0vh;
+  left: 5vw;
+  top: 75vh;
 }
 p.intro {
   font-size: 1.2vw;
